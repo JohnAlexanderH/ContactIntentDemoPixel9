@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactIntentDemo</string>
+    <string name="enter_new_contact">Enter New Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add">Add</string>
+    <string name="email">Email</string>
+    <string name="no_input_string">N/A</string>
+</resources>
